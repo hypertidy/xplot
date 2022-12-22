@@ -1,3 +1,5 @@
 ^xplot\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
+^CODE_OF_CONDUCT\.md$
+^LICENSE\.md$
